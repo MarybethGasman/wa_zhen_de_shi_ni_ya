@@ -10,7 +10,7 @@ y=float(input("what?"))
 
 print(x+y)
 z=round(x+y)
-z=round(x/y,1)
+z=round(x/y,3)
 print(z)
 print(f"{z}")
 print(f"{z:,}")
